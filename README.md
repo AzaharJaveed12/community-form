@@ -1,9 +1,11 @@
 # community-form
 
-##client
-```cd client
+###client
+```
+  cd client
   npm install
-  npm run serve```
+  npm run serve
+  ```
 
 
 ###server
